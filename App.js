@@ -14,7 +14,7 @@ function App()  {
             
             <div className="header">
 
-                <h1>Welcome to Your Easy-Learning Pad</h1>
+                <h1>Welcome to Your Class Pad</h1>
                 <p>
             Tired of your professor speaking too fast during online school
                 and it being impossible to catch up? Well, welcome to the pad that
