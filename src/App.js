@@ -1,6 +1,5 @@
 import React from 'react';
 import Assembly from './Assembly'
-import axios from 'axios'
 
 
 
