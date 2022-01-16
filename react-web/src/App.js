@@ -34,8 +34,8 @@ function App()  {
 
                 <h3>
                     1. Find your lecture or video link <br /> <br />
-                    2. Insert it in <br /> <br />
-                    3. Wait for a few seconds <br /> <br />
+                    2. Insert it in and click the button <br /> <br />
+                    3. Wait for a few seconds (around 30 seconds as our robots work their magic, then click the button twice) <br /> <br />
                     4. And Voila!
                 </h3>
                 <br /> <br />
